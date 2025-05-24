@@ -30,8 +30,6 @@ To estimate **delivery time** based on **sorting time**, helping improve logisti
 - **Train-Test Split**: 80:20
 - **Model Metrics**:
   - RMSE: **59.12**
-  - Coefficient (slope): **9460.66**
-  - Intercept: **25521.23**
   - R² Score: **0.9219**
 
 ### 🔹 Delivery Time Prediction
